@@ -1,0 +1,15 @@
+
+	<style>
+		#card{
+			background: yellow;
+			font-family: Times;
+			font-style: all;
+			text-align: center;
+		}
+		#pot{
+			background: pink;
+		}
+		#ip{
+			text-align: center;
+		}
+	</style>
